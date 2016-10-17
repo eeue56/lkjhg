@@ -8,5 +8,5 @@ module Durp exposing (herp)
 
 {-| Do nothing
 -}
-herp : String -> String
+herp : Int -> Int
 herp x = x
